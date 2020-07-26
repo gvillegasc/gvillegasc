@@ -1,4 +1,42 @@
-### Hi there 👋
+# Hi! I'm Gerardo Villegas 👋
+
+I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web and 👓virtual reality technologies, I love learn new technologies
+
+```
+
+ > My Social Networks
+   Instagram:  https://www.instagram.com/gvillegasc21/
+     Twitter:  https://twitter.com/villegasg_j
+      GitHub:  https://github.com/gvillegasc
+      GitLab:  https://gitlab.com/gvillegasc
+    LinkedIn:  https://www.linkedin.com/in/gerardoj-villegasc/
+
+```
+
+```javascript
+
+ > My Skills
+
+    languages: ['javascript', 'typescript', 'dart', 'C#', 'python', 'php', 'java'];
+
+    tools: [
+        'React.js',
+        'Vue.js',
+        'Angular',
+        'Node.js',
+        'Laravel',
+        'Flutter',
+        'Ionic',
+        'Django',
+        'MongoDB',
+        'MySQL',
+        'Unity',
+        'MRTK',
+        'ARcore',
+        'VRTK',
+    ];
+
+```
 
 <!--
 **gvillegasc/gvillegasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
