@@ -1,3 +1,5 @@
+![Header](./img/background.jpg)
+
 # Hi! I'm Gerardo Villegas 👋
 
 I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web and 👓virtual reality technologies, I love learn new technologies
