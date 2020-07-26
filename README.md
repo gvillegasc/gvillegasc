@@ -5,6 +5,7 @@ I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web a
 ```
 
  > My Social Networks
+
    Instagram:  https://www.instagram.com/gvillegasc21/
      Twitter:  https://twitter.com/villegasg_j
       GitHub:  https://github.com/gvillegasc
@@ -21,15 +22,10 @@ I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web a
 
     tools: [
         'React.js',
-        'Vue.js',
         'Angular',
         'Node.js',
-        'Laravel',
         'Flutter',
-        'Ionic',
         'Django',
-        'MongoDB',
-        'MySQL',
         'Unity',
         'MRTK',
         'ARcore',
