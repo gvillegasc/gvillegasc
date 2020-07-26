@@ -1,5 +1,3 @@
-![Header](https://i.blogs.es/7b7837/software-gratuito/450_1000.jpg)
-
 # Hi! I'm Gerardo Villegas 👋
 
 I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web and 👓virtual reality technologies, I love learn new technologies
