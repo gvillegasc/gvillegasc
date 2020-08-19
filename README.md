@@ -25,7 +25,6 @@ I'm **Junior Software Develeper**, who is passionate about 📱mobile, 💻web a
         'Angular',
         'Node.js',
         'Flutter',
-        'Django',
         'Unity',
         'MRTK',
         'ARcore',
