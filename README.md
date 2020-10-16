@@ -1,6 +1,7 @@
 # Hi! I'm Gerardo Villegas 👋
 
 I'm **Software Develeper**, who is passionate about 📱mobile, 💻web and 👓virtual reality technologies, I love learn new technologies
+[GitHub](http://github.com)
 
 ```
 
@@ -27,8 +28,10 @@ I'm **Software Develeper**, who is passionate about 📱mobile, 💻web and 👓
         'Node.js',
         'Flutter',
         'MRTK',
-        'ARcore',
-        'VRTK',
+        'ARcore'
     ];
 
 ```
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvillegasc&layout=compact&hide=html" alt="gvillegasc" /></p>
+<br />
