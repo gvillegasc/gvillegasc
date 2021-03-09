@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Gerardo Villegas 👨‍💻
 
-I'm a **Software Developer**, a passionate about 📱mobile, 💻web and 💷backend technologies, I love learn about new technologies.
+I'm a **Software Developer**, a passionate about 📱 mobile, 💻 web and 💷 backend technologies, I love learn about new technologies.
 
 <p align="center">
 <a href="https://gerardo-villegas.com/"><img src="https://img.shields.io/badge/-gerardovillegas-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -13,11 +13,11 @@ I'm a **Software Developer**, a passionate about 📱mobile, 💻web and 💷bac
 
 ### 🛠 &nbsp;Technologies and Tools
 
-* 📱 Flutter | React Navite | Kotlin 
-* 💻 React | Angular
-* 🔧 NodeJS | Express JS
-* 🛢️ MySQL | MongoDB 
-* 📡 Git | Github | Gitflow
+* 📱  Flutter | React Navite | Kotlin 
+* 💻  React | Angular
+* 🔧  NodeJS | Express JS
+* 🛢️  MySQL | MongoDB 
+* 📡  Git | Github | Gitflow
 
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
