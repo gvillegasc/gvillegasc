@@ -1,37 +1,44 @@
-# Hi! I'm Gerardo Villegas 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Gerardo Villegas 👨‍💻
 
-I'm **Software Develeper**, who is passionate about 📱mobile, 💻web and 👓virtual reality technologies, I love learn new technologies
-[GitHub](http://github.com)
+I'm a **Software Developer**, a passionate about 📱mobile, 💻web and 💷backend technologies, I love learn about new technologies.
 
-```
+<p align="center">
+<a href="https://gerardo-villegas.com/"><img src="https://img.shields.io/badge/-gerardovillegas-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gerardoj-villegasc/"><img src="https://img.shields.io/badge/-Gerardo_Villegas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:villegasgerardo.j@gmail.com"><img src="https://img.shields.io/badge/-villegasgerardo.j@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/gvillegasc"><img src="https://img.shields.io/badge/-gvillegasc_-000000?style=flat&logo=Github&logoColor=white"/></a>
 
- > My Social Networks
+</p>
+ 
 
-      Website: gerardo-villegas.com
-       GitHub: github.com/gvillegasc
-       GitLab: gitlab.com/gvillegasc
-    Instagram: instagram.com/gvillegasc21
-      Twitter: twitter.com/villegasg_j
-     LinkedIn: linkedin.com/in/gerardoj-villegasc
+### 🛠 &nbsp;Technologies and Tools
 
-```
+* 📱 Flutter | React Navite | Kotlin 
+* 💻 React | Angular
+* 🔧 NodeJS | Express JS
+* 🛢️ MySQL | MongoDB 
+* 📡 Git | Github | Gitflow
 
-```javascript
+<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
- > My Skills
+<br>
+<br>
 
-    languages: ['javascript', 'typescript', 'dart', 'C#', 'python', 'php', 'java'];
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/gvillegasc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gvillegasc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gvillegasc&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-    tools: [
-        'React.js',
-        'Angular',
-        'Node.js',
-        'Flutter',
-        'MRTK',
-        'ARcore'
-    ];
 
-```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvillegasc&layout=compact&hide=html" alt="gvillegasc" /></p>
-<br />
