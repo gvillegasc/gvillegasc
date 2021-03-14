@@ -1,23 +1,25 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Gerardo Villegas 👨‍💻
 
-I'm a **Software Developer**, a passionate about 📱 mobile, 💻 web and 💷 backend technologies, I love learn about new technologies.
+I am a **Software Developer**, passionate about 📱 mobile, 💻 web and 💷 backend technologies.
+
+
+* ❤️ I love learning about new technologies.
+* 👨‍💻 I like challenges because that help me learn more every day.
+* 📱 Actually I am dedicated to the development of mobile applications
+* 🙋 You can know more about me [here](https://github.com/anuraghazra/anuraghazra/issues)
+ 
 
 <p align="center">
-<a href="https://gerardo-villegas.com/"><img src="https://img.shields.io/badge/-gerardovillegas-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://gerardo-villegas.com/"><img src="https://img.shields.io/badge/-gerardo--villegas.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gerardoj-villegasc/"><img src="https://img.shields.io/badge/-Gerardo_Villegas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:villegasgerardo.j@gmail.com"><img src="https://img.shields.io/badge/-villegasgerardo.j@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/gvillegasc"><img src="https://img.shields.io/badge/-gvillegasc_-000000?style=flat&logo=Github&logoColor=white"/></a>
 
 </p>
+
  
 
 ### 🛠 &nbsp;Technologies and Tools
-
-* 📱  Flutter | React Navite | Kotlin 
-* 💻  React | Angular
-* 🔧  NodeJS | Express JS
-* 🛢️  MySQL | MongoDB 
-* 📡  Git | Github | Gitflow
 
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -29,6 +31,7 @@ I'm a **Software Developer**, a passionate about 📱 mobile, 💻 web and 💷 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>
 <br>
