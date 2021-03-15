@@ -3,10 +3,10 @@
 I am a **Software Developer**, passionate about 📱 mobile, 💻 web and 💷 backend technologies.
 
 
-* ❤️ I love learning about new technologies.
-* 👨‍💻 I like challenges because that help me learn more every day.
-* 📱 Actually I am dedicated to the development of mobile applications
-* 🙋 You can know more about me [here](https://gerardo-villegas.com/)
+* 📖   I love learning about new technologies.
+* 👨‍💻   I like challenges because that help me learn more every day.
+* 📱   Actually I am dedicated to the development of mobile applications
+* 🙋   You can know more about me [here](https://gerardo-villegas.com/)
  
 
 <p align="center">
