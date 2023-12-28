@@ -11,10 +11,7 @@ I am a **Software Developer**, passionate about 📱 mobile, 💻 web and 💷 b
 
 <p align="center">
 <a href="https://gerardo-villegas.com/"><img src="https://img.shields.io/badge/-gerardo--villegas.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gerardoj-villegasc/"><img src="https://img.shields.io/badge/-Gerardo_Villegas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:villegasgerardo.j@gmail.com"><img src="https://img.shields.io/badge/-villegasgerardo.j@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/gvillegasc"><img src="https://img.shields.io/badge/-gvillegasc_-000000?style=flat&logo=Github&logoColor=white"/></a>
-
 </p>
 
  
